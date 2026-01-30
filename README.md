@@ -13,11 +13,11 @@ Sick Leave (SL) trends and potential workplace health risks.
 
 ## 🧠 Key Business Questions
 
-*What are employees’ working preferences between WFH and WFO?
-*On which days are employees most and least present in the office?
-*How can employee presence insights help plan team activities and collaboration?
-*How can hybrid work models improve infrastructure and capacity utilization?
-*Are there patterns in sick leave usage that indicate health or safety risks
+* What are employees’ working preferences between WFH and WFO?
+* On which days are employees most and least present in the office?
+* How can employee presence insights help plan team activities and collaboration?
+* How can hybrid work models improve infrastructure and capacity utilization?
+* Are there patterns in sick leave usage that indicate health or safety risks
 
 ---
 
@@ -63,7 +63,7 @@ Sick Leave (SL) trends and potential workplace health risks.
 
 ## 📈 Key Insights
 
-*Attendance remained consistently high across three months (≈90–94%)
+* Attendance remained consistently high across three months (≈90–94%)
 * WFH usage is highest on Fridays, followed by Mondays
 * Mid-week days (Tuesday & Wednesday) show maximum office presence
 * Employees prefer WFH at the beginning or end of the workweek
